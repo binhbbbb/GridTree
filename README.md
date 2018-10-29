@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/gridtree)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/gridtree.svg)](https://vaadin.com/directory/component/gridtree)
+
 # GridTree Add-on for Vaadin 7
 
 GridTree is an experimental UI component add-on for Vaadin 7. Adds an opportunity to add a hierarchcal container to the Grid
